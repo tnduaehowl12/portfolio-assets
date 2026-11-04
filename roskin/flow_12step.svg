@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="940" viewBox="0 0 1900 940">
+<rect width="1900" height="940" fill="#FFFFFF"/>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E05F9F"/></marker>
+<marker id="arb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#075DAA"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6E7684"/></marker>
+</defs>
+<circle cx="52" cy="50" r="9" fill="#E05F9F"/>
+<text x="72" y="56" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#E05F9F" letter-spacing="2">PROCESS</text>
+<text x="44" y="104" font-family="Noto Sans CJK KR" font-size="40" font-weight="700" fill="#16242F">12단계 제조 공정 순서도</text>
+<text x="44" y="140" font-family="Noto Sans CJK KR" font-size="20" fill="#6E7684">주문 1건 = 1 사이클 · 단일 순차 프로그램으로 1번부터 12번까지 실행</text>
+<rect x="1290" y="44" width="22" height="22" rx="5" fill="#E9F1FA" stroke="#DDE3EA"/>
+<text x="1322" y="61" font-family="Noto Sans CJK KR" font-size="17" fill="#6E7684">준비 구간 (1–5)</text>
+<rect x="1290" y="76" width="22" height="22" rx="5" fill="#FCEEF5" stroke="#DDE3EA"/>
+<text x="1322" y="93" font-family="Noto Sans CJK KR" font-size="17" fill="#6E7684">핵심 — 힘 감지 (6)</text>
+<rect x="1290" y="108" width="22" height="22" rx="5" fill="#FFFFFF" stroke="#DDE3EA"/>
+<text x="1322" y="125" font-family="Noto Sans CJK KR" font-size="17" fill="#6E7684">마무리 구간 (7–12)</text>
+<rect x="44" y="196" width="268" height="168" rx="16" fill="#E9F1FA" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="84" cy="238" r="22" fill="#075DAA"/>
+<text x="84" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+<text x="68" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">초기화 · 홈</text>
+<text x="68" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">I/O 초기화, 홈 이동</text>
+<rect x="348" y="196" width="268" height="168" rx="16" fill="#E9F1FA" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="388" cy="238" r="22" fill="#075DAA"/>
+<text x="388" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+<text x="372" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">컵 파지</text>
+<text x="372" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">뒤집힌 컵 파지</text>
+<rect x="652" y="196" width="268" height="168" rx="16" fill="#E9F1FA" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="692" cy="238" r="22" fill="#075DAA"/>
+<text x="692" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+<text x="676" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">컵 배치</text>
+<text x="676" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">J6 180° 회전 후 조리대</text>
+<text x="676" y="349" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">배치</text>
+<rect x="956" y="196" width="268" height="168" rx="16" fill="#E9F1FA" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="996" cy="238" r="22" fill="#075DAA"/>
+<text x="996" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">04</text>
+<text x="980" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">스쿱 파지</text>
+<text x="980" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">보강 블록 파지</text>
+<rect x="1260" y="196" width="268" height="168" rx="16" fill="#E9F1FA" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="1300" cy="238" r="22" fill="#075DAA"/>
+<text x="1300" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">05</text>
+<text x="1284" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">통 위 이동</text>
+<text x="1284" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">안전점 · 높은 경유점 통과</text>
+<rect x="1564" y="196" width="268" height="168" rx="16" fill="#FCEEF5" stroke="#E05F9F" stroke-width="3"/>
+<circle cx="1604" cy="238" r="22" fill="#E05F9F"/>
+<text x="1604" y="246" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">06</text>
+<text x="1588" y="296" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#C93F82">힘 감지 스쿠핑</text>
+<text x="1588" y="326" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">2mm씩 하강</text>
+<text x="1588" y="349" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">1.3N 연속 2회 시 정지</text>
+<rect x="44" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="84" cy="556" r="22" fill="#075DAA"/>
+<text x="84" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">07</text>
+<text x="68" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">컵 위 운반</text>
+<text x="68" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">내용물 방향 유지, 저속 운반</text>
+<rect x="348" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="388" cy="556" r="22" fill="#075DAA"/>
+<text x="388" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">08</text>
+<text x="372" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">배출</text>
+<text x="372" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">J6 120° 상대회전</text>
+<rect x="652" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="692" cy="556" r="22" fill="#075DAA"/>
+<text x="692" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">09</text>
+<text x="676" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">수직 이탈</text>
+<text x="676" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">배출 자세로 Z +50mm 상승</text>
+<rect x="956" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="996" cy="556" r="22" fill="#075DAA"/>
+<text x="996" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">10</text>
+<text x="980" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">스쿱 반납</text>
+<text x="980" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">거치대 안착 후 그리퍼 개방</text>
+<rect x="1260" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="1300" cy="556" r="22" fill="#075DAA"/>
+<text x="1300" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">11</text>
+<text x="1284" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">완성 컵 서빙</text>
+<text x="1284" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">고객 제공 위치 배치</text>
+<rect x="1564" y="514" width="268" height="168" rx="16" fill="#FFFFFF" stroke="#DDE3EA" stroke-width="1.5"/>
+<circle cx="1604" cy="556" r="22" fill="#075DAA"/>
+<text x="1604" y="564" font-family="Noto Sans CJK KR" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">12</text>
+<text x="1588" y="614" font-family="Noto Sans CJK KR" font-size="25" font-weight="700" fill="#16242F">홈 복귀</text>
+<text x="1588" y="644" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">J6 누적 오차 보정</text>
+<line x1="317" y1="280.0" x2="343" y2="280.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="621" y1="280.0" x2="647" y2="280.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="925" y1="280.0" x2="951" y2="280.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="1229" y1="280.0" x2="1255" y2="280.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="1533" y1="280.0" x2="1559" y2="280.0" stroke="#E05F9F" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="317" y1="598.0" x2="343" y2="598.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="621" y1="598.0" x2="647" y2="598.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="925" y1="598.0" x2="951" y2="598.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="1229" y1="598.0" x2="1255" y2="598.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<line x1="1533" y1="598.0" x2="1559" y2="598.0" stroke="#075DAA" stroke-width="3" marker-end="url(#arb)"/>
+<path d="M 1698.0 369 L 1698.0 439.0 L 178.0 439.0 L 178.0 505" fill="none" stroke="#E05F9F" stroke-width="3" marker-end="url(#ar)"/>
+<path d="M 1838 327.03999999999996 L 1858 327.03999999999996 L 1858 732.0 L 1808 732.0" fill="none" stroke="#6E7684" stroke-width="2.5" stroke-dasharray="9 6" marker-end="url(#arg)"/>
+<rect x="1096" y="700" width="704" height="64" rx="13" fill="#FFFFFF" stroke="#6E7684" stroke-width="1.5" stroke-dasharray="7 5"/>
+<text x="1122" y="727" font-family="Noto Sans CJK KR" font-size="18.5" font-weight="700" fill="#16242F">예외 — 표면 미검출 또는 힘 한계 초과</text>
+<text x="1122" y="752" font-family="Noto Sans CJK KR" font-size="16.5" fill="#6E7684">7–12단계를 실행하지 않고 중단 (빈 스쿱으로 붓는 헛동작 방지)</text>
+<rect x="44" y="864" width="1812" height="54" rx="12" fill="#063A6B"/>
+<text x="950.0" y="898" font-family="Noto Sans CJK KR" font-size="21" font-weight="700" fill="#FFFFFF" text-anchor="middle">컵 파지 → 스쿱 파지 → 힘 감지 진입 → 스쿠핑 → 배출 → 스쿱 반납 → 서빙 → 복귀</text>
+</svg>

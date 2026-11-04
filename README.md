@@ -13,20 +13,19 @@
 
 ## 들어 있는 것
 
-| 경로 | 내용 | 비고 |
-|---|---|---|
-| `book-shelving/arm_demo_home.mp4` | 로봇팔 홈 자세 복귀 | 720p · 38초 |
-| `book-shelving/arm_demo_shelfA.mp4` | 서가 A 배가 동작 | 720p · 96초 |
-| `book-shelving/arm_demo_shelfB.mp4` | 서가 B 배가 동작 | 720p · 98초 |
-| `book-shelving/full_cycle_20260923.mp4` | AMR 이동 → 파지 → 삽입 → 복귀 전체 사이클 | 1080p · 165초 |
-| `book-shelving/return_kiosk_3d.png` | 무인반납기 3D 모델 (내부 컨베이어·투입구) | |
-| `book-shelving/return_kiosk_3d_side.png` | 같은 모델 측면 | 작업 중 뷰 |
-| `rocycle/cell_demo_20260911.mp4` | 컨베이어 추적·파지·분류 작업 셀 시연 | 720p · 50초 |
-| `rocycle/roboflow_labeling.png` | 데이터 라벨링 (Roboflow) | |
-| `scv/control_dashboard.png` | 관제 화면 — 설비 판정과 블랙박스 | |
+| 폴더 | 파일 |
+|---|---|
+| `scv/` | `scv_demo_two_robots.mp4` (2대 동시 순찰 시연 · 챕터 자막 · 55초) · `scv_overview.png` · `scv_system_layout.png` · `scv_core_flow.png` · `rssi_heatmap.png` (계획 경로+실제 궤적+RSSI 히트맵+설비 8곳) · `control_dashboard.png` · `task_list.png` |
+| `rocycle/` | `cell_demo_20260911.mp4` (연속 분류 시연 · 50초) · `system_architecture.png` · `hardware.png` · `process_chart.png` · `pipeline_8steps.png` · `calibration_improvement.png` · `roboflow_labeling.png` |
+| `book-shelving/` | `full_cycle_20260923.mp4` (전체 사이클 · 2분 45초) · `arm_demo_shelfA.mp4` · `arm_demo_shelfB.mp4` · `arm_demo_home.mp4` · `diagram1_cycle_9steps.png` · `diagram2_carry_4segments.png` · `return_kiosk_3d.png` · `return_kiosk_3d_side.png` |
+| `roskin/` | `force_entry.png` / `.svg` (힘 감지 진입 판정) · `flow_12step.png` / `.svg` (제조 12단계) |
+| `coop-hub/` | `coophub_architecture.png` · `coophub_review_flow.png` |
+| `rc-car/` | `flowchart.png` (탐지 → 출동 → 탐색 → 추종) |
+| `gesture/` | (비어 있음) |
 
-영상은 모두 **원본 녹화본**이고, `rocycle/cell_demo_20260911.mp4` 만 1080p 46.8 MB 원본을
-720p 640 kbps 로 다시 인코딩했습니다 (3.9 MB).
+영상은 모두 **원본 녹화본**입니다. 다시 인코딩한 것은
+`rocycle/cell_demo_20260911.mp4` 하나뿐으로, 1080p 46.8 MB 원본을 720p 640 kbps 로
+줄였습니다 (3.9 MB).
 
 ## 사용법
 
