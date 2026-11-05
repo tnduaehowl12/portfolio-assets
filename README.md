@@ -16,7 +16,7 @@
 | 폴더 | 파일 |
 |---|---|
 | `scv/` | `scv_demo_two_robots.mp4` (2대 동시 순찰 시연 · 챕터 자막 · 55초) · `scv_overview.png` · `scv_system_layout.png` · `scv_core_flow.png` · `rssi_heatmap.png` (계획 경로+실제 궤적+RSSI 히트맵+설비 8곳) · `control_dashboard.png` · `task_list.png` |
-| `rocycle/` | `cell_demo_20260911.mp4` (연속 분류 시연 · 50초) · `system_architecture.png` · `hardware.png` · `process_chart.png` · `pipeline_8steps.png` · `calibration_improvement.png` · `roboflow_labeling.png` |
+| `rocycle/` | `cell_demo_20260911.mp4` (연속 분류 시연 · 50초) · `system_architecture.png` · `hardware.png` · `process_chart.png` · `pipeline_8steps.png` · `rocycle_calibration_process.png` · `roboflow_labeling.png` |
 | `book-shelving/` | `full_cycle_20260923.mp4` (전체 사이클 · 2분 45초) · `arm_demo_shelfA.mp4` · `arm_demo_shelfB.mp4` · `arm_demo_home.mp4` · `diagram1_cycle_9steps.png` · `diagram2_carry_4segments.png` · `return_kiosk_3d.png` · `return_kiosk_3d_side.png` |
 | `roskin/` | `force_entry.png` / `.svg` (힘 감지 진입 판정) · `flow_12step.png` / `.svg` (제조 12단계) |
 | `coop-hub/` | `coophub_architecture.png` · `coophub_review_flow.png` |
